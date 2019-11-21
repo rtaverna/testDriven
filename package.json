@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lianach/testDriven/issues"
   },
-  "homepage": "https://github.com/lianach/testDriven#readme"
+  "homepage": "https://github.com/lianach/testDriven#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
 }
