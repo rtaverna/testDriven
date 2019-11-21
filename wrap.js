@@ -23,3 +23,4 @@ function wrap(str,integer){
 module.exports=wrap;
 
 console.log(wrap("Lorem ipsum dolor sit eu amet, elit na magna sem amet nulla vel purus ac ligula.", 20))
+commit
